@@ -1,0 +1,20 @@
+wechat:
+  appId: dfhsdfh45723534
+  secretKey: wtrywtrydfgjdhj325546
+  token: retueytjt43523465etfjhrest
+  key: erjyewrtywtu3563456fdg
+  payNotifyUrl: http://m.valentine.cn/v1/wechat/notify
+  mchId: 1234436546323w
+  certPath: /data/cert/apiclient_cert.p12
+  mchKey: ertqwyerhardt451435134
+  qr:
+    appId: 1362356aweerq2354
+    secretKey: qrtaergadfg123234
+  app:
+    appId: qtrqergsb12343425
+    secretKey: erqytqw43254235eqawrt235
+  refundNotifyUrl: http://m.valentine.cn/v1/wechat/refund
+
+qulianxi:
+  appId: etqeryzdfn2354326
+  secretKey: aergqer6425672314135df

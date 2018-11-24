@@ -1,0 +1,20 @@
+jpush:
+  secret: qwrqwrasd213123ase
+  key: awerawer132414wer23
+  templateId: 1231423
+
+cos:
+  appId: 12431523
+  secretId: qwetq24354235erWER213ERWER
+  secretKey: TQWET234TRUYETYDSFQ3425
+  bucket: webstatic
+cmq:
+  appId: 31246735456
+  secretId: ERYTSJSRETQ4RT234123
+  secretKey: ERYAERY435TSYHT23454325
+  endpoint: http://cmq-queue-gz.api.tencentyun.com
+  attendance-auth: attendance-auth-test
+  topic-auth: topic-auth-test
+  challenge-auth: challenge-auth-test
+  order: order-test
+  refund: refund-test

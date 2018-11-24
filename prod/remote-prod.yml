@@ -1,0 +1,11 @@
+wechat.application.name: wechat-service-dev
+topic.application.name: topic-service-dev
+challenge.application.name: challenge-service-dev
+open.application.name: open-service-dev
+im.application.name: im-service-dev
+search.application.name: search-service-dev
+system.application.name: system-service-dev
+lucky-money.application.name: lucky-money-service-dev
+card.application.name: card-service-dev
+credit.application.name: credit-service-dev
+statistics.application.name: statistics-service-dev
