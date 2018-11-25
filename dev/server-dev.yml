@@ -4,12 +4,3 @@ spring:
       charset: utf-8
     converters:
       preferred-json-mapper: fastjson
-
-server:
-  port: 8080
-  undertow:
-    io-threads: 8
-    worker-threads: 1024
-    buffer-size: 1024
-    direct-buffers: true
-    max-http-post-size: 10485760
